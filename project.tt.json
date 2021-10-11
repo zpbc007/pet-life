@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "pet-life",
+  "description": "record pet life",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
