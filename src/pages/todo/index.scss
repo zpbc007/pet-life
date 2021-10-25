@@ -1,0 +1,11 @@
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/fab.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+
+.todo-page {
+  .add-btn {
+    position: fixed;
+    bottom: $page-p-d;
+    right: $page-p-w;
+  }
+}

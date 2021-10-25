@@ -59,6 +59,9 @@ const config = {
         }
       }
     }
+  },
+  sass: {
+    resource: ['src/styles/variable.scss']
   }
 }
 
